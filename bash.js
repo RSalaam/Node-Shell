@@ -5,8 +5,19 @@
 //     process.stdout.write('\nprompt >');
 // })
 
-const result = require('./pwd')
-result()
+// const result = require('./pwd')
+// result()
+
+const catResult = require('./cat')
+catResult('pwd.js')
+
+
+
+
+// const result = require('./ls')
+// result();
+
+
 
 
 
